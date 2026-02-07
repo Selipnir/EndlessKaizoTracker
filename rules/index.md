@@ -1,7 +1,7 @@
 # The Endless Kaizo IronMON Challenge
 
 The Endless Kaizo IronMon challenge is a [Pokémon Randomizer](https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases) challenge run inspired by [iateyourpie](https://www.twitch.tv/iateyourpie) and the IronMON Challenge.  
-Endless Kaizo IronMON was created by [Selipnir](https://www.twitch.tv/selipnir).
+Endless Kaizo IronMON was created by [Selipnir](https://www.twitch.tv/selipnir) and greatly inspired by the legendary [iateyourpie](https://www.twitch.tv/iateyourpie)
 
 This ruleset was designed to be used with the Ironmon Tracker and the Endless Kaizo Ironmon Extension. You don't need to use them, but they help a lot.
 
