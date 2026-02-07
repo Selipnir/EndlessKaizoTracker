@@ -16,7 +16,7 @@ The extension is designed to be used with the Ironmon Tracker and BizHawk, addin
 4. The ReadMe in the extension has more information to help you get started
 
 ## Rules
-View the full rules here: **[LINK TO RULES PAGE]**
+View the full rules here: **[(https://selipnir.github.io/EndlessKaizoTracker)]**
 
 ## Compatibility
 - Ironmon Tracker (recent versions)
