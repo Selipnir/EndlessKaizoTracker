@@ -37,6 +37,7 @@ This challenge is designed exclusively around the FireRed/LeafGreen game. Feel f
 | Kaizo Randomizer Settings          | A few specific settings for Kaizo: <li>Static Pokémon MUST NOT have level increase</li><li>No "Make Evolutions Easier"</li><li>Forced Fully Evolved at Level 30</li><li>Add 3 Additional Pokémon to Boss Trainers</li>                                                                                                                                        | Certain settings may not be available for all Generations                                                                                                                                                                                                                      |
 | No Relearner Abuse                 | You cannot use the Move Relearner NPC to teach Sketch to a Pokemon that has already sketched a move.                                                                                                                                                                                                                                                          |   
 | No Evolving Before Jimmy | If your mon can evolve you must cancel the evolution if it is before you beat the first trainer in the forest | Any forest trainer counts for this, so if you want to do Earliest Gatekeeper and then evolve and fight Jimmy that is allowed
+| You must name your mon | After the Brock fight your Pokemon must have a unique name. | 
 
 
 ## FAQs
