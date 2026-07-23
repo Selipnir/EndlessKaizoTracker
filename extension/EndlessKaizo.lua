@@ -65,6 +65,7 @@ local function EndlessKaizo()
     ------------------------------------------------------------
 
     self.MonsList = {
+        { number = 292, name = "Shedinja", mon_id = 293 },
         { number = 249, name = "Lugia", mon_id = 250 },
         { number = 250, name = "Ho-oh", mon_id = 251 },
         { number = 150, name = "Mewtwo", mon_id = 151 },
